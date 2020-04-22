@@ -1,0 +1,15 @@
+.myCard{
+    &__heading{
+        background-color: $pf-grey;
+    }
+    &__textContainer{
+        background-color: $pf-grey;
+        margin-top: 40px;
+        &--text{
+            background-color: $pf-grey;
+        }
+    }
+    &__imageContainer{
+        background-color: $pf-grey;
+    }
+}

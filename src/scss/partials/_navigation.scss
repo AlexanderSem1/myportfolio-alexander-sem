@@ -1,0 +1,30 @@
+.myNavigation{    
+    background-color: $pf-black;
+    color: $pf-snowwhite;
+    padding: 30px; 
+    &__itemContainer a{
+         color: red;
+         &:hover{
+        color: $pf-gold !important;
+         }
+
+    }
+}
+
+.footer{
+    text-align: center;
+    &__text{
+        font-size: 80%;
+        color:  $pf-dirytwhite;
+        min-height: 100px;
+        
+    }
+}
+
+.socialLinks a{
+    color: $pf-dirytwhite;
+    &:hover{
+        transform: scale(1.2);
+        color: $pf-gold;
+    }
+}
