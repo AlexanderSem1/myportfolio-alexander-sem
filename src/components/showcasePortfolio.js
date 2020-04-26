@@ -11,6 +11,7 @@ const ShowcasePortfolio = ({ showBtn, showBtn2 }) => {
                     <h5 className="[ myCard__sidebar--text ]">My Portfolio</h5>
                 </div>
                 <div className="[ col-sm-4 ] [ myCard__textbox ]">
+                    <h4 className="[ myCard__textbox--heading ]">Selection of my work</h4>
                     <p className="[ myCard__textbox--text ]">Selection of my work during my studies at Noroff School of Media & Technology</p>
                     <p className="[ myCard__textbox--text ]">Check out the full work in my Portfolio and get in touch if you're looking for Frontend Designer & Developer.</p>
                 </div>

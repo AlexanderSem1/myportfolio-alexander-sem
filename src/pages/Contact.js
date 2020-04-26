@@ -45,7 +45,7 @@ export default function Contact() {
             <div className="[ row ] [ myCard ]">
                 <div className="[ col-sm-8 offset-sm-2 ] [ myCard__contactbox ]">
                     <h5 className="[ myCard__contactbox ]">Contact Form</h5>
-                    <p className="[ myCard__contactbox--text ]">Please fill the form below to recieve my CV or if you have any questions about my portfolio.</p>
+                    <p className="[ myCard__contactbox--text ]">Please fill the form below to request my CV or if you have any questions about my portfolio.</p>
                 <form onSubmit={handleSubmit} className="[ myCard__contactbox ]">
                     <p className="[ myCard__contactbox ]">Enter your firstname</p>
                     <input type="text"

@@ -2,7 +2,7 @@
     {
         "heading": "React based application with API call and search",
         "description": "React application focusing on API call of Magic cards with sorting and search function.",
-        "technology": "Javascript framweork React, HTML framwork Bootstrap 4 and CSS framwork SASS",
+        "technology": "Javascript framework React, HTML framework Bootstrap 4 and CSS framework SASS",
         "websiteURL": "https://elastic-banach-27c4d5.netlify.app",
         "imageURL": "http://alexandersem.com/my-portfolio-images/magic_card.png",
         "id": 1
@@ -10,7 +10,7 @@
     {
         "heading": "Javascript - Interactive Gaming application",
         "description": "Semester project to create interactive gaming application using Javascript",
-        "technology": "Interactive boardgame site based on CSS framwork SASS, BEM and built on Javascript",
+        "technology": "Interactive boardgame site based on CSS framework SASS, BEM and built on Javascript",
         "websiteURL": "https://dreamy-bose-8d5b17.netlify.app",
         "imageURL": "http://alexandersem.com/my-portfolio-images/Boardgame.png",
         "id": 2
@@ -25,7 +25,7 @@
     },
     {
         "heading": "United Nation Student Association Website, Oslo Norway",
-        "description": "A complete website for United Nation student Association in Oslo, Norway as part of first semeseter project.",
+        "description": "A complete website for United Nation student Association in Oslo, Norway as part of first semester project.",
         "technology": "Fully responsive website based on HTML and CSS",
         "websiteURL": "https://alexandersem.com/New_UN-Oslo_Portfolio/index.html",
         "imageURL": "http://alexandersem.com/my-portfolio-images/UN_website.png",
