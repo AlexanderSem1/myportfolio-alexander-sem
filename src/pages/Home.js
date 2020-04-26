@@ -1,6 +1,7 @@
 import React from 'react';
 import Introduction from './../components/introduction';
 import ShowcasePortfolio from './../components/showcasePortfolio'; 
+import GetInTouch from './../components/getInTouch'; 
 
 const HomePage = () => {
 
@@ -13,6 +14,7 @@ const HomePage = () => {
                 <ShowcasePortfolio
                     showBtn2={true}
                 />
+                <GetInTouch />
             </div>
         </div>
 

@@ -37,7 +37,7 @@ export default function Contact() {
 
     const handleSubmit = (event) => {
         event.preventDefault();
-        alert("Thank you for contacting us, we will get back to you shortly!")
+        alert("Thank you for contacting me, I will get back to you soonest possible!")
     }
 
     return (

@@ -9,8 +9,8 @@ const Portfolio = ({ heading, description, technology, websiteURL, imageURL }) =
                     <h5 className="[ myCard__heading ]">{heading}</h5>
                 </div>
                 <div className="[ col-sm-5 offset-1 ] [ myCard__textContainer ]">
-                    <p className="[ myCard__textContainer--text ]">Description: {description}</p>
-                    <p className="[ myCard__textContainer--text ]">Technology: {technology}</p>
+                    <p className="[ myCard__textContainer--text ]"><span>Description:</span> {description}</p>
+                    <p className="[ myCard__textContainer--text ]"><span>Technology:</span> {technology}</p>
                     <a className="[ btn ] [ myCard__contactbox--button ]" href={websiteURL} target="_blank" rel="noopener noreferrer" >Visit the Website</a>
                 </div>
                 <div className="[ col-sm-5 ] [ myCard__imageContainer ]">

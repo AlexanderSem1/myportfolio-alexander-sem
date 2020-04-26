@@ -6,7 +6,7 @@ const Footer = () => {
 
     return (
         <div className="[ container ]">
-            <Link className="[ navbar-brand col-sm-2 offset-sm-5 ] [ logo__footer ]" ><img src={Logo} alt="Alexander Sem Borrmann logo" to="/" /></Link>
+            <Link className="[ navbar-brand col-sm-2 offset-sm-5 ] [ logo__footer ]" to="/" ><img src={Logo} alt="Alexander Sem Borrmann logo" to="/" /></Link>
                 <div className="[ row  navbar navbar-expand-sm navbar-dark ] [ footer ]">
                 <ul className="[ col-sm-12 ] [ footer__socialLinks ]">
                         <a className="[  nav-link ] [ fab fa-twitter ]" href="https://twitter.com/alex_sem75"> </a>

@@ -13,10 +13,10 @@ const Knowledge = () => {
                     <img src={educationImage} alt="education illustration" width="100%" />
                 </div>
                 <div className="[ col-sm-4 ] [ myCard__textbox ]">
-                    <h4 className="[ myCard__textbox--text ]">Industrial Economics - Bc.Sc.</h4>
-                    <p className="[ myCard__textbox--text ]">Royal Institute of Technology - KTH<br />Graduated: January 2000<br />Stockholm, Sweden</p>
-                    <h4 className="[ myCard__textbox--text ]">Front-end Design & Development</h4>
-                    <p className="[ myCard__textbox--text ]">Noroff School of Media & Technology<br />Graduated: June 2020<br />Oslo, Norway </p>
+                    <h4 className="[ myCard__textbox--text ]">Design</h4>
+                    <p className="[ myCard__textbox--text ]">&bull; &nbsp; Photoshop, Illustrator and XD<br />&bull; &nbsp; Website and Logo design</p>
+                    <h4 className="[ myCard__textbox--text ]">Technical</h4>
+                    <p className="[ myCard__textbox--text ]">&bull; &nbsp; HTML Framework - Bootstrap<br />&bull; &nbsp; CSS Frameworks - SASS, Stylus and BEM<br />&bull; &nbsp; Javascript Framework - React & Vue<br />&bull; &nbsp; Headless CMS - Strapi<br />&bull; &nbsp; Workflow skills - Scrum master, Life cycle management and Agile, </p>
                 </div>
             </div>
         </div>

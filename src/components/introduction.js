@@ -12,15 +12,13 @@ const Introduction = ({ showBtn, showBtn2 }) => {
                 </div>
                 <div className="[ col-sm-4 ] [ myCard__textbox ]">
                     <h1 className="[ myCard__textbox--heading ]">I AM Alexander</h1>
-                    <p className="[ myCard__textbox--text ]">&bull; &nbsp; Over 15 years B2B2C marketing experience <br />&bull; &nbsp; Front-end designer & developer</p>
+                    <p className="[ myCard__textbox--text ]">&bull; &nbsp; Over 15 years B2B2C marketing experience <br />&bull; &nbsp; Frontend designer & developer</p>
                     <p className="[ myCard__textbox--text ]">&bull; &nbsp; Email: alexander.sem@icloud.com <br />&bull; &nbsp; Phone: +47 911 03 531</p>
                 </div>
                 <div className="[ col-sm-4 ] [ myCard__image ]">
                     <img src={myPicture} alt="alexander profile" width="100%" />
                 </div>
                 <Button btnText={'Read More'} showBtn={showBtn} />
-                <Button btnText2={'Read More'} showBtn2={showBtn2} />
-               
             </div>
         </div>
     )

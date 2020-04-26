@@ -2,7 +2,7 @@
     {
         "heading": "React based application with API call and search",
         "description": "React application focusing on API call of Magic cards with sorting and search function.",
-        "technology": "Javascript framwork React, HTML framwork Bootstrap 4 and CSS framwork SASS",
+        "technology": "Javascript framweork React, HTML framwork Bootstrap 4 and CSS framwork SASS",
         "websiteURL": "https://elastic-banach-27c4d5.netlify.app",
         "imageURL": "http://alexandersem.com/my-portfolio-images/magic_card.png",
         "id": 1
@@ -10,23 +10,23 @@
     {
         "heading": "Javascript - Interactive Gaming application",
         "description": "Semester project to create interactive gaming application using Javascript",
-        "technology": "Interactive boardgame Website based on CSS framwork SASS, BEM and built on Javascript",
+        "technology": "Interactive boardgame site based on CSS framwork SASS, BEM and built on Javascript",
         "websiteURL": "https://dreamy-bose-8d5b17.netlify.app",
         "imageURL": "http://alexandersem.com/my-portfolio-images/Boardgame.png",
         "id": 2
     },
     {
         "heading": "First Year Project Exam",
-        "description": "Website for all Student Associations.",
-        "technology": "Based on HTML, CSS, Javascript using APIs",
+        "description": "Website for all Student Associations in Norway.",
+        "technology": "Based on HTML, CSS, Javascript using Instagram API",
         "websiteURL": "https://alexandersem.com/FEU1_PE_UNSA/index.html",
         "imageURL": "http://alexandersem.com/my-portfolio-images/UNSA.png",
         "id": 3
     },
     {
         "heading": "United Nation Student Association Website, Oslo Norway",
-        "description": "A complete website for United Nation student Association in Oslo, Norway.",
-        "technology": "Fully responsive app Based on only HTML and CSS",
+        "description": "A complete website for United Nation student Association in Oslo, Norway as part of first semeseter project.",
+        "technology": "Fully responsive website based on HTML and CSS",
         "websiteURL": "https://alexandersem.com/New_UN-Oslo_Portfolio/index.html",
         "imageURL": "http://alexandersem.com/my-portfolio-images/UN_website.png",
         "id": 4

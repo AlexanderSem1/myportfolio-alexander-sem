@@ -1,6 +1,7 @@
 import React from 'react';
 import Portfolio from './../components/portfolio';
 import data from './../data/projects.json';
+import GetInTouch from './../components/getInTouch'; 
 
 const MyPortfolio = () => {
 
@@ -18,6 +19,7 @@ const MyPortfolio = () => {
                         />
                     })
                 }
+                <GetInTouch />
             </div>
         </div>
 
