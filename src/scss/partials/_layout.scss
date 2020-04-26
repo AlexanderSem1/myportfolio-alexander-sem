@@ -1,0 +1,66 @@
+*{
+    box-sizing: border-box;
+    overflow-x: hidden;
+    background-color: $pf-black;
+    color: $pf-snowwhite;
+    padding: 0;
+    margin: 0;
+    max-width: 100vw;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-bottom: .5rem;
+    font-weight: 500;
+    line-height: 1.3;
+    font-family: 'Libre Caslon Text', serif;
+}
+
+a, p, Link {
+    font-family: 'Roboto', sans-serif;
+}
+
+.myCard{
+   padding: 40px 0;
+   background-color: $pf-grey;
+   margin: 0 0 5% 0;
+   border-radius: 5px;
+   &__sidebar{
+       background-color: $pf-grey;
+       &--text{
+        background-color: $pf-grey;
+        text-decoration: underline $pf-gold;
+        margin-left: 10px;
+       }
+   }
+   &__image {
+       background-color: $pf-grey;
+   } img{
+      background-color: $pf-grey;
+   }
+   &__textbox{
+       background-color: $pf-grey;
+       margin: 50px 10px;
+       &--heading{
+           background-color: $pf-grey;
+           margin: 20px50px;
+       }
+       &--text{
+           background-color: $pf-grey;
+           padding-left: 10px;
+       }
+   }
+   &__showcaseImage{
+    margin-top: 60px;
+    background-color: $pf-grey;  
+    & img{
+        border-radius: 2px;
+        border: 2px solid $pf-snowwhite;
+        border-radius: 2px;
+        padding: 10px;
+    }
+}
+}
+
+.eductionImage{
+    margin-top: 50px;
+}

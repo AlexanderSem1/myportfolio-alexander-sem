@@ -1,15 +1,18 @@
 import React from 'react';
-import Introduction from './../components/introduction'; 
+import Introduction from './../components/introduction';
+import ShowcasePortfolio from './../components/showcasePortfolio'; 
 
 const HomePage = () => {
 
     return (
         <div className="[ container ]">
             <div className="[ row ]">
-                <Introduction  
-                // button={readMore}
+                <Introduction
+                    showBtn={true}
                 />
-               
+                <ShowcasePortfolio
+                    showBtn2={true}
+                />
             </div>
         </div>
 

@@ -6,13 +6,13 @@ const WorkExperience = () => {
     return (
         <div className="[ container ]">
             <div className="[ row ] [ myCard ]">
-                <div className="[ col-sm-2 ] [ myCard__sidebar ]">
+                <div className="[ col-sm-3 ] [ myCard__sidebar ]">
                     <h5 className="[ myCard__sidebar--text ]">Work Experience</h5>
                 </div>
                 <div className="[ col-sm-4 ] [ myCard__image eductionImage ]">
                     <img src={experienceImage} alt="education illustration" width="100%" />
                 </div>
-                <div className="[ col-sm-5 ] [ myCard__textbox ]">
+                <div className="[ col-sm-4 ] [ myCard__textbox ]">
                     <h4 className="[ myCard__textbox--text ]">Vewd Software AS</h4>
                     <p className="[ myCard__textbox--text ]">Marketing Director<br />May 2014 - August 2019<br />Oslo, Norway</p>
                     <h4 className="[ myCard__textbox--text ]">Ericsson AB</h4>

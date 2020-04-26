@@ -4,12 +4,24 @@
     }
     &__textContainer{
         background-color: $pf-grey;
-        margin-top: 40px;
+        margin-top: 20px;
+        &--link{
+            text-decoration: none;
+            color: $pf-snowwhite;
+        }
         &--text{
             background-color: $pf-grey;
         }
     }
     &__imageContainer{
         background-color: $pf-grey;
+        padding: 20px;
+        margin: 0;
+        & img{
+            padding: 10px;
+            border: 2px solid $pf-snowwhite;
+            border-radius: 2px;
+            background-color: $pf-dirytwhite;
+        }
     }
 }

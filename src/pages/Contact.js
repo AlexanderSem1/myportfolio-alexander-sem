@@ -71,7 +71,7 @@ export default function Contact() {
                     />
                     <p className={(emailerror) ? 'error' : 'error__hide'}>Please enter valid email address.</p>
                     <br />
-                    <p className="[ myCard__contactbox ]">Phonenumber</p>
+                    <p className="[ myCard__contactbox ]">Phone number</p>
                     <input type="number"
                         name='phonenumber'
                         onChange={handleChange}
@@ -80,9 +80,10 @@ export default function Contact() {
                     <p className={(phonenumbererror) ? 'error' : 'error__hide'}>Please enter valid number.</p>
                         <br />
                         <p className="[ myCard__contactbox ]">Message (Optional)</p>
-                        <input type="text"
+                        <textarea type="text"
                             name="message"
                             className="[ form-control ]"
+                            rows="5"
                         />
                         <br />
                     <input type="submit" disabled={firstnameerror || surnameerror || emailerror || phonenumbererror} className="[ btn ] [ myCard__contactbox--button ]" />
