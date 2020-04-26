@@ -25,9 +25,8 @@
 .footer{
     &__socialLinks a{
          color: $pf-dirytwhite;
-    line-height: 1.4;
+        line-height: 1.4;
     &:hover{
-        transform: scale(1.2);
         color: $pf-gold;
     }
     }
