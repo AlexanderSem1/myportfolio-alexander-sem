@@ -8,7 +8,7 @@ const GetInTouch = () => {
         <div className="[ container ]">
             <div className="[ row ] [ myCard ]">
                 <div className="[ col-sm-2 ] [ myCard__sidebar ]">
-                    <h5 className="[ myCard__sidebar--text ]">Interested? </h5>
+                    <h5 className="[ myCard__sidebar--text ]">Sounds Interesting? </h5>
                 </div>
                 <div className="[ col-sm-5 ] [ myCard__textbox ]">
                     <h4 className="[ myCard__textbox--heading ]">Thank you for visiting my portfolio</h4>

@@ -8,7 +8,7 @@ const Introduction = ({ showBtn, showBtn2 }) => {
         <div className="[ container ]">
             <div className="[ row ] [ myCard ]">
                 <div className="[ col-sm-3 ] [ myCard__sidebar ]">
-                    <h5 className="[ myCard__sidebar--text ]">Introduction</h5>
+                    <h5 className="[ myCard__sidebar--text ]">About me</h5>
                 </div>
                 <div className="[ col-sm-4 ] [ myCard__textbox ]">
                     <h1 className="[ myCard__textbox--heading ]">I AM Alexander</h1>

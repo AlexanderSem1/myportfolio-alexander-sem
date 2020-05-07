@@ -9,10 +9,10 @@ const About = () => {
     return (
         <div className="[ container ]">
             <div className="[ row ]">
-                <Introduction showBtn={false} />
-                <Education />
-                <WorkExperience />
                 <Knowledge />
+                <Education />
+                <Introduction showBtn={false} />
+                <WorkExperience />
                 <GetInTouch />
             </div>
         </div>
